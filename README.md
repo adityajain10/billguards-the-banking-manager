@@ -1,6 +1,6 @@
 # billguards-The-Banking-Manager
 # Developed by Aditya Jain
-# write to http://adityajain.info/
+# write to http://adityajain.cf/
 
 #Statement of scope
 In present times, all major economic transactions have started taking place digitally. The major trends of modern digital transactions is
