@@ -1,10 +1,10 @@
-# billguards-The-Banking-Manager
+# BillGuards - The Banking Manager
 
 ## Introduction
 In present times, all major economic transactions have started taking place digitally. The major trends of modern digital transactions is substantiated by use of database management. These databases can be accessed by anyone with specific rights, and perform certain actions on it. The data update is done almost automatically and is much faster. Users can, in present days can access their accounts directly without going to a bank, making transfers, transactions and accessing cash directly without standing in long queues as was prevalent earlier using ATM machines. On employee-side the data is much more organized, and accessing and performing actions on user accounts is easier for them. Due to this the bank has better work efficiency and customer experience improves as well.
 
 ## System Overview
-###Product Perspective
+### Product Perspective
 BillGuards -The Banking Manager can be used by Bank Employees and/or Customers depending on bank policy. It can be used by several employees of the bank at the same time with required rights. It can be accessed using the BillGuards -The Banking Manager Application with graphical interface. Our Product consists mainly of two parts i.e. the Employee Work-Space (EWS) and the ATM Banking.
 The system would deal with the internal banking functions like new account registration, withdrawal, deposit, money transfer etc. The ATM banking would be for direct access of customers, who could use it for Cash-Withdrawal, Transfers and Account-Summary. Both of them connect to a main database server for storing and retrieving the data of the Customers.
 
